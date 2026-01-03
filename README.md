@@ -1,16 +1,22 @@
-## Hi there 👋
+¡Hola! 👋 Soy Valery Serrano
+👩‍💻 Desarrolladora Full Stack | .NET & React
+Desarrolladora apasionada por crear soluciones tecnológicas eficientes y escalables. Especializada en desarrollo web full stack con experiencia en el ecosistema Microsoft y tecnologías modernas de frontend.
+🚀 Sobre mí
 
-<!--
-**valeryserranonavarrovs-hub/valeryserranonavarrovs-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Actualmente trabajando en proyectos con C#, .NET, React y SQL Server
+🌱 Aprendiendo Data Science, Cloud Computing (Azure/AWS) y mejorando mis habilidades en TypeScript
+💼 Experiencia en desarrollo web, administración de bases de datos y soporte IT
+🎓 Diplomada en Tecnologías de Información - CUC
+📍 Ubicada en Cartago, Costa Rica
+💡 Interesada en contribuir a proyectos open source
 
-Here are some ideas to get you started:
+🏆 Certificaciones
+🔐 Cybersecurity Essentials - Cisco (2025)
+📊 Project Management Essentials - Udemy (2025)
+🎓 Oracle Next Education (ONE) - Oracle + Alura Latam (2023)
+📈 Data Science Specialization - Oracle + Alura (En curso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💭 Frase favorita
+"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House
+
+⭐️ Si te gusta mi trabajo, no olvides dar una estrella a mis repositorios
